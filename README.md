@@ -25,6 +25,4 @@ My name is **Atri Chattopadhyay** & I am pursuing my Bachelor's in Electronics a
 <h1>
 
   </h1>
-
-[![Atri github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AtriChatterjee1&theme=xcode)](https://git.io/AtriChatterjee1)
 <br/>
