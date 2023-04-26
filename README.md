@@ -6,7 +6,7 @@
 
 </p>
 
-My name is **Atri Chattopadhyay** & I am pursuing my Bachelor's in Electronics and Electrical Engineering From [IIT Guwahati](https://www.https://www.iitg.ac.in/) . I am a **AI/ML Engineer** & passionate about **Open Source** & **DevOps**. Open to collaborate on Projects. I Believe in **Learn By Doing**. 
+My name is **Atri Chattopadhyay** & I am pursuing my Bachelor's in Electronics and Electrical Engineering From [IIT Guwahati](https://www.iitg.ac.in/) . I am a **AI/ML Engineer** & passionate about **Open Source** & **DevOps**. Open to collaborate on Projects. I Believe in **Learn By Doing**. 
 
 - 📫 How to reach me **c.atri@iitg.ac.in**
 
